@@ -1,2 +1,3 @@
 aprendiendo github y git 
-html js
+html js html
+jugando vscode
